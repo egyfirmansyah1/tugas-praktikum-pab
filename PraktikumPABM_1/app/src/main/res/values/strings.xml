@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Praktikum PAB_1</string>
+    <string name="data_diri_nmahasiswa_nuniversitas_kuningan">DATA DIRI\nMAHASISWA\nUNIVERSITAS KUNINGAN</string>
+    <string name="todo">TODO</string>
+    <string name="nkuningan_16_maret_2023_n_n_n_n_n_negy_firmansyah">\nKuningan, 16 Maret 2023\n \n\n\n\n\nEgy Firmansyah</string>
+    <string name="egy_firmansyah_n_nkuningan_23_maret_2000_n_n_nlaki_laki_n_n_o_n_nperum_grand_amelia_blok_h_no_5_n_n_08_03_n_nkedungarum_n_nkuningan_n_nislam_n_nbelum_menikah_n_nmahasiswa_n_nindonesia">Egy Firmansyah\n\nKuningan, 23 Maret 2000\n \n\nLaki - Laki\n\n O\n\nPerum. Grand Amelia, Blok H, No. 5\n\n 08 / 03\n\nKedungarum\n \nKuningan\n\nIslam\n\nBelum Menikah\n\nMahasiswa\n \nIndonesia</string>
+    <string name="n_n_n_n_n_n_n_n_n_n_n_n_n_n_n_n_n_n_n_n_n_n_n">:\n\n:\n\n\n:\n\n:\n\n:\n\n: \n\n:\n\n:\n\n:\n\n:\n\n:\n\n:</string>
+    <string name="nama_n_ntempat_tanggal_lahir_n_njenis_kelamin_n_ngol_darah_n_nalamat_n_n_t_t_trt_rw_n_n_t_t_tkel_desa_n_n_t_t_tkecamatan_n_nagama_n_nstatus_n_npekerjaan_n_nkewarganegaraan">Nama\n\nTempat/Tanggal Lahir\n \nJenis Kelamin\n\nGol. Darah\n\nAlamat\n\n\t\t\tRt/Rw \n\n\t\t\tKel/Desa\n\n\t\t\tKecamatan\n\nAgama\n\nStatus\n \nPekerjaan\n\nKewarganegaraan</string>
+</resources>
