@@ -25,7 +25,8 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="10dp"
         android:drawableRight="@drawable/baseline_search_24"
-        android:hint="Search" />
+        android:hint="Search"
+        android:minHeight="48dp" />
 
     <TextView
         android:id="@+id/textView3"
@@ -38,13 +39,14 @@
         android:textStyle="bold"
         android:text="ListView PopUp APP" />
 
-    <EditText android:id="@+id/datalistview"
-        android:padding="20dp"
+    <EditText
+        android:id="@+id/datalistview"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:onClick="pilihfakultas"
         android:focusableInTouchMode="false"
         android:hint="Click here"
-        />
+        android:minHeight="48dp"
+        android:drawableRight="@drawable/baseline_touch_app_24"
+        android:onClick="pilihfakultas" />
 
 </LinearLayout>
